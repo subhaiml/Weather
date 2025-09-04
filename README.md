@@ -1,12 +1,57 @@
-# React + Vite
+🎨 Color Codes
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I matched them from the gradients and UI elements:
 
-Currently, two official plugins are available:
+Background Gradients
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Sunny Gradient
 
-## Expanding the ESLint configuration
+#FACC15 (Yellow-400)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#F97316 (Orange-500)
+
+#EC4899 (Pink-500)
+
+Rainy Gradient
+
+#1D4ED8 (Blue-700)
+
+#0891B2 (Cyan-600)
+
+#374151 (Gray-700)
+
+Snowy Gradient
+
+#DBEAFE (Blue-100)
+
+#BAE6FD (Cyan-200)
+
+#FFFFFF (White)
+
+Cloudy Gradient
+
+#9CA3AF (Gray-400)
+
+#6B7280 (Gray-500)
+
+#374151 (Gray-700)
+
+Glassmorphism Card
+
+Background: rgba(255, 255, 255, 0.1) → #FFFFFF1A
+
+Border: rgba(255, 255, 255, 0.2) → #FFFFFF33
+
+Text (white): #FFFFFF
+
+Secondary text: #E5E7EB (Gray-200)
+
+Weather Icons (Emoji Style)
+
+Sun (☀️): #FACC15
+
+Cloud (☁️): #9CA3AF
+
+Rain drops (🌧️): #2563EB
+
+Snowflake (❄️): #60A5FA
