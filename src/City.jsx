@@ -1,7 +1,7 @@
 function City(props){
     return(
         <>
-        <div className="h-[50vh] space-y-5 w-[50vh] bg-[#FFFFFF1A]  text-white border-[#FFFFFF33] border-4 rounded-md items-center justify-center flex flex-col">
+        <div className="h-[70%] space-y-5 w-auto bg-[#FFFFFF1A]  text-white border border-[#FFFFFF33] rounded-md items-center justify-center flex flex-col">
 
         <p className=" text-8xl">{props.emoji}</p>
 
